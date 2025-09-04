@@ -38,15 +38,6 @@ Thumb + Pinky finger: Next Video
 
 Middle finger gesture: Close YouTube
 
-Settings
-Adjust sensitivity:
-
-+ key: Increase sensitivity
-
-- key: Decrease sensitivity
-
-Exit: Press q to quit the program
-
 Notes
 Make sure YouTube is open in a browser tab
 
